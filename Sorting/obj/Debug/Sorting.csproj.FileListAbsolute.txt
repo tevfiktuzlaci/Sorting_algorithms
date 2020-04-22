@@ -1,0 +1,40 @@
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.frmSorting.resources
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Usre\Desktop\MCBU Dersler\2018-2019 Bahar\Veri Yapıları\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.frmSorting.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\obj\Debug\Sorting.frmSorting.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Usre\Desktop\Lectures\Bakircay Dersler\2019-2020 Bahar\Veri Yapilari\5. Hafta - Sıralama ve Arama Algoritmaları\uygulama5 - Kopya\Sorting\Sorting\obj\Debug\Sorting.pdb
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\bin\Debug\Sorting.exe
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\bin\Debug\Sorting.pdb
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\obj\Debug\Sorting.csprojAssemblyReference.cache
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\obj\Debug\Sorting.frmSorting.resources
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\obj\Debug\Sorting.Properties.Resources.resources
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\obj\Debug\Sorting.csproj.GenerateResource.cache
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\obj\Debug\Sorting.exe
+C:\Users\tevfi\Desktop\veri yapıları\hafta 6\Sorting - Kopya\Sorting\obj\Debug\Sorting.pdb
